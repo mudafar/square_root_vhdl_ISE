@@ -1,0 +1,73 @@
+Release 14.7 - ngc2edif P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design squart.ngc ...
+WARNING:NetListWriters:298 - No output is written to squart.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus Madd_res_add0000_cy<12 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_add0000_lut<12 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_add0001_lut<10 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_add0002_lut<4 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_add0003_lut<8 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_add0004_lut<2 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_add0005_lut<6 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_addsub0001_lut<10 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_addsub0002_lut<4 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_addsub0003_lut<8 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_addsub0004_lut<2 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Madd_res_addsub0005_lut<6 : 0> on block
+   squart is not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_aux_cmp_gt0003_lut<6 : 0> on
+   block squart is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_aux_cmp_gt0004_lut<8 : 0> on
+   block squart is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_aux_cmp_gt0005_lut<10 : 0> on
+   block squart is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_aux_cmp_gt0006_lut<12 : 0> on
+   block squart is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_aux_cmp_gt0007_lut<14 : 0> on
+   block squart is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus Mcompar_aux_cmp_gt0008_lut<14 : 0> on
+   block squart is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus aux_mux0002<12 : 8> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus aux_mux0003<14 : 8> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus aux_mux0004<14 : 4> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus aux_mux0005<14 : 4> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus aux_mux0006<14 : 0> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus aux_mux0007<14 : 2> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus res_add0000<12 : 0> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus res_mux0001<14 : 2> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus res_mux0003<14 : 0> on block squart is
+   not reconstructed, because there are some missing bus signals.
+WARNING:NetListWriters:306 - Signal bus res_mux0013<14 : 0> on block squart is
+   not reconstructed, because there are some missing bus signals.
+  finished :Prep
+Writing EDIF netlist file squart.edif ...
+ngc2edif: Total memory usage is 106812 kilobytes
+

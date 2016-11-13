@@ -1,0 +1,21 @@
+
+
+NET "number[0]" LOC = G18;
+NET "number[1]" LOC = H18;
+NET "number[2]" LOC = K18;
+NET "number[3]" LOC = K17;
+NET "number[4]" LOC = L14;
+NET "number[5]" LOC = L13;
+NET "number[6]" LOC = N17;
+NET "number[7]" LOC = R17;
+NET "result[0]" LOC = J14;
+NET "result[1]" LOC = J15;
+NET "result[2]" LOC = K15;
+NET "result[3]" LOC = K14;
+
+
+NET "clock" LOC = B8;
+NET "data_out[0]" LOC = J14;
+NET "data_out[1]" LOC = J15;
+NET "data_out[2]" LOC = K15;
+NET "data_out[3]" LOC = K14;

@@ -1,0 +1,31 @@
+
+
+NET "data_in[0]" LOC = G18;
+NET "data_in[1]" LOC = H18;
+NET "data_in[2]" LOC = K18;
+NET "data_in[3]" LOC = K17;
+NET "data_in[4]" LOC = L14;
+NET "data_in[5]" LOC = L13;
+NET "data_in[6]" LOC = N17;
+NET "data_in[7]" LOC = R17;
+NET "data_out[0]" LOC = J14;
+NET "data_out[1]" LOC = J15;
+NET "data_out[2]" LOC = K15;
+NET "data_out[3]" LOC = K14;
+NET "clock" LOC = B8;
+
+# PlanAhead Generated physical constraints 
+
+NET "numero[0]" LOC = L18;
+NET "numero[1]" LOC = F18;
+NET "numero[2]" LOC = D17;
+NET "numero[3]" LOC = D16;
+NET "numero[4]" LOC = G14;
+NET "numero[5]" LOC = J17;
+NET "numero[6]" LOC = H14;
+NET "numero[7]" LOC = C17;
+NET "re" LOC = H13;
+NET "mul[0]" LOC = F17;
+NET "mul[1]" LOC = H17;
+NET "mul[2]" LOC = C18;
+NET "mul[3]" LOC = F15;

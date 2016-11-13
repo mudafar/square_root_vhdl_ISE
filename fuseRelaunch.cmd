@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/victory/Downloads/sistemasLogicos/pruebas/raizcuadrada/squart_tb_isim_beh.exe" -prj "/home/victory/Downloads/sistemasLogicos/pruebas/raizcuadrada/squart_tb_beh.prj" "squart_tb" 

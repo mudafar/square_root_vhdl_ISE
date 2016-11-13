@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="NetListWriters" num="298" delta="new" >No output is written to <arg fmt="%s" index="1">squart.xncf</arg>, ignored.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_add0000_cy</arg><arg fmt="%s" index="2">&lt;12 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_add0000_lut</arg><arg fmt="%s" index="2">&lt;12 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_add0001_lut</arg><arg fmt="%s" index="2">&lt;10 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_add0002_lut</arg><arg fmt="%s" index="2">&lt;4 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_add0003_lut</arg><arg fmt="%s" index="2">&lt;8 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_add0004_lut</arg><arg fmt="%s" index="2">&lt;2 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_add0005_lut</arg><arg fmt="%s" index="2">&lt;6 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_addsub0001_lut</arg><arg fmt="%s" index="2">&lt;10 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_addsub0002_lut</arg><arg fmt="%s" index="2">&lt;4 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_addsub0003_lut</arg><arg fmt="%s" index="2">&lt;8 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_addsub0004_lut</arg><arg fmt="%s" index="2">&lt;2 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Madd_res_addsub0005_lut</arg><arg fmt="%s" index="2">&lt;6 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Mcompar_aux_cmp_gt0003_lut</arg><arg fmt="%s" index="2">&lt;6 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Mcompar_aux_cmp_gt0004_lut</arg><arg fmt="%s" index="2">&lt;8 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Mcompar_aux_cmp_gt0005_lut</arg><arg fmt="%s" index="2">&lt;10 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Mcompar_aux_cmp_gt0006_lut</arg><arg fmt="%s" index="2">&lt;12 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Mcompar_aux_cmp_gt0007_lut</arg><arg fmt="%s" index="2">&lt;14 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">Mcompar_aux_cmp_gt0008_lut</arg><arg fmt="%s" index="2">&lt;14 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">aux_mux0002</arg><arg fmt="%s" index="2">&lt;12 : 8&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">aux_mux0003</arg><arg fmt="%s" index="2">&lt;14 : 8&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">aux_mux0004</arg><arg fmt="%s" index="2">&lt;14 : 4&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">aux_mux0005</arg><arg fmt="%s" index="2">&lt;14 : 4&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">aux_mux0006</arg><arg fmt="%s" index="2">&lt;14 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">aux_mux0007</arg><arg fmt="%s" index="2">&lt;14 : 2&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">res_add0000</arg><arg fmt="%s" index="2">&lt;12 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">res_mux0001</arg><arg fmt="%s" index="2">&lt;14 : 2&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">res_mux0003</arg><arg fmt="%s" index="2">&lt;14 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+<msg type="warning" file="NetListWriters" num="306" delta="new" >Signal bus <arg fmt="%s" index="1">res_mux0013</arg><arg fmt="%s" index="2">&lt;14 : 0&gt;</arg> on block <arg fmt="%s" index="3">squart</arg> is not reconstructed, because there are some missing bus signals.
+</msg>
+
+</messages>
+
